@@ -1,3 +1,3 @@
 public class TestMain {
-    System.out.println("hello git,kingku");
+    System.out.println("hello git,kingku!");
 }
